@@ -1,6 +1,6 @@
 # 0x00. AirBnB clone - The console
 **Creation of a command interpreter to manage the hbnb projects**
-## <p align="center">![alt text](https://github.com/Dikachis/AirBnB_clone/blob/main/web_static/images/65f4a1dd9c51265f49d0.png?raw=true)</p>
+## <p align="center">![alt text](https://github.com/afolhabeeb/AirBnB_clone/blob/master/AirBnB.png?raw=true)</p>
 
 ## Description of the project
 This is the first step towards building your first full web application: the **AirBnB clone**. The aim of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/) using my server. The final version of this project will have:
