@@ -1,9 +1,10 @@
 # 0x00. AirBnB clone - The console
 **Creation of a command interpreter to manage the hbnb projects**
+
 ## <p align="center">![alt text](https://github.com/afolhabeeb/AirBnB_clone/blob/master/AirBnB.png?raw=true)</p>
 
 ## Project Description
-This is the first step towards building your first full web application: the **AirBnB clone**. The aim of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/) using my server. The final version of this project will have:
+This is the first step towards building your first full web application: the **AirBnB clone**. The goal of the project is to deploy a replica of the [Airbnb Website](https://www.airbnb.com/) using my server. The final version of this project will have:
 - ```A command interpreter to manipulate data without a visual interface, like a shell (for development and debugging)```
 - ```A website (front-end) with static and dynamic functionalities```
 - ```A comprehensive database to manage the backend functionalities```
@@ -16,8 +17,8 @@ This is the first step towards building your first full web application: the **A
 - ```Update attributes of an object```
 - ```Destroy an object```
 - 
-## The created objects
-**The list of the objects (instances) that can be created are as follows:**
+## Created objects
+**Below are list of the objects (instances) that can be created:**
 - BaseModel
 - User
 - City
